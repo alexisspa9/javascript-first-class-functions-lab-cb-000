@@ -10,4 +10,8 @@ function createMultiplier(multiplyValue){
   };
 }
 var doubler = createMultiplier(2);
-var tripler = createMultiplier(23;
+var tripler = createMultiplier(3);
+
+function multiplier(one, two) {
+   return one * two;
+}
