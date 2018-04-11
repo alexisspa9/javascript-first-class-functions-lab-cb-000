@@ -9,3 +9,4 @@ function createMultiplier(multiplyValue){
     return multiplyValue * value;
   };
 }
+var doubler = createMultiplier(2);
